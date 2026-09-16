@@ -6,10 +6,8 @@
 
 PRODUCT_PACKAGES += \
     mediatek-common \
-    mediatek-telecom-common \
     mediatek-telephony-common
 
 PRODUCT_BOOT_JARS += \
     mediatek-common \
-    mediatek-telecom-common \
     mediatek-telephony-common
